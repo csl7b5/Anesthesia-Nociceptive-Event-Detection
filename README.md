@@ -1,5 +1,5 @@
 # Anesthesia-Nociceptive-Event-Detection
-Harnessing deep learning versus classical machine learning for nociceptive event detection. Diagnosing high importance features, best practices, and justifying model complexity and overhead for usage in clinical settings.
+Harnessing deep learning versus classical machine learning for nociceptive event detection. Diagnosing high-importance features, best practices, and justifying model complexity and overhead for usage in clinical settings.
 
 This repository contains the implementation of a nociception prediction model using physiological signals and anesthetic drug data. The core methodology leverages **Transfer Learning (TL)** using **Temporal Convolutional Networks (TCN)** to adapt a base model to individual patients with minimal data.
 
@@ -15,7 +15,7 @@ The goal is to predict nociceptive stimuli (labeled as `noc_stim`) during surger
 ## Implementation Details
 
 ### Data Loading (`OR_data.mat`)
-The pipeline loads clinical data from a `.mat` file, containing synchronized physiological and drug information from 101 surgeries.
+The pipeline loads clinical data from a `.mat` file, containing synchronized physiological and drug information from 101 surgeries. Please obtain the data through the proper channels on PhysioNet (https://physionet.org/content/multimodal-surgery-anesthesia/1.0/).
 
 ### Model Architectures
 - **Temporal Convolutional Network (TCN):** Optimized for sequence modeling with 1D convolutions.

@@ -1,4 +1,4 @@
-# Anesthesia-Nociceptive-Event-Detection
+# Nociceptive Event Detection using Transfer Learning versus Tree-based Classical Machine Learning
 Harnessing deep learning versus classical machine learning for nociceptive event detection. Diagnosing high-importance features, best practices, and justifying model complexity and overhead for usage in clinical settings.
 
 This repository contains the implementation of a nociception prediction model using physiological signals and anesthetic drug data. The core methodology leverages **Transfer Learning (TL)** using **Temporal Convolutional Networks (TCN)** to adapt a base model to individual patients with minimal data.

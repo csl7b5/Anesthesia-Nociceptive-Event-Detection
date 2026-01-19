@@ -44,3 +44,6 @@ The system evaluates performance using:
 
 ## Usage
 Open and run `TL_Nociception_v2.ipynb` in a Jupyter environment. The code is set up to utilize Apple Silicon (MPS) if available, falling back to CPU otherwise.
+
+## Details
+Preliminary manuscript on results can be reviewed on MedRxiv @ https://www.medrxiv.org/content/10.1101/2025.07.01.25330670v1

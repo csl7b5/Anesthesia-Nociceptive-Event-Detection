@@ -47,3 +47,4 @@ Open and run `TL_Nociception_v2.ipynb` in a Jupyter environment. The code is set
 
 ## Details
 Preliminary manuscript on results can be reviewed on MedRxiv @ https://www.medrxiv.org/content/10.1101/2025.07.01.25330670v1
+Publication accepted to PLOS One (doi: 10.1371/journal.pone.0342688).

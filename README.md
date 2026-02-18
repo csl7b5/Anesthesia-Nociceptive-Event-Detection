@@ -46,8 +46,7 @@ The system evaluates performance using:
 Open and run `TL_Nociception_v2.ipynb` in a Jupyter environment. The code is set up to utilize Apple Silicon (MPS) if available, falling back to CPU otherwise.
 
 ## Details
-Read our publication in [PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342688)!
-
+Read our publication in [PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342688)!  
 **Please cite our work:**  Lee C, Lee J, Vogt K-A, Munshi M (2026) Justifying model complexity: Evaluating transfer learning against classical models for intraoperative nociception monitoring under anesthesia. PLoS One 21(2): e0342688. https://doi.org/10.1371/journal.pone.0342688
 
 
